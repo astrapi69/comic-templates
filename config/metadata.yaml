@@ -1,0 +1,25 @@
+title: "The Adventures of Max and the Flying Cat"
+subtitle: "A Family-Made Comic Journey Through Portals, Pudding and Playful Perils"
+author: "Asterios Raptis & Chris"
+isbn: ""
+edition: "1st Edition"
+publisher: "Creative Sparks Publishing"
+date: "2025-08-01"
+language: "English"
+description: "Join Max, a curious boy with wild ideas, as he discovers a magical jelly portal and teams up with a flying cat on an unforgettable adventure. Created by a real family duo using GitHub, AI art, and lots of imagination."
+keywords: 
+  - comic book
+  - family project
+  - kid-friendly
+  - AI-generated art
+  - GitHub
+  - markdown publishing
+  - coding with kids
+  - creative storytelling
+cover_image: "assets/cover/max-and-the-flying-cat-cover.jpg"
+output_formats: 
+  - pdf
+  - epub
+  - mobi
+  - docx
+kdp_enabled: true

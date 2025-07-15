@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "style": "comic book style, vibrant colors"
+  },
+  "prompts": [
+    {
+      "text": "A boy wakes up in a dark futuristic room with moonlight coming through the window",
+      "filename": "page01_panel01.png"
+    },
+    {
+      "text": "The boy walks barefoot through a dim hallway, looking scared",
+      "filename": "page01_panel02.png"
+    },
+    {
+      "text": "A refrigerator in the kitchen starts glowing mysteriously",
+      "filename": "page01_panel03.png"
+    },
+    {
+      "text": "A shadow with alien tentacles appears on the wall behind the boy",
+      "filename": "page01_panel04.png"
+    }
+  ]
+}
